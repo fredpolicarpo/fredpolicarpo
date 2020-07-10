@@ -18,6 +18,7 @@ To contribute to society solving real problems, as part of a team, by building c
  - JavaScript and TypeScript with NodeJS
  - Java and Groovy with SpringBoot
  - Groovy with Grails
+ - Distribuited Systems
  - AWS
  - Relational an NoSQL Databases
  - Agile Developmenty Process
