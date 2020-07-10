@@ -1,5 +1,12 @@
-### Hi there 👋
+### My mission
+To contribute to society solving real problems, as part of a team, by building computer systems that work efficiently, sustainably, and reliably.
 
+### Core values
+ - **Keep Learning** - Always save some time to learn something new. There are two categories of knowledge to learn in parallel: Skills that will help your current job/goals and skills that will help you in your long term goals. 
+ - **Keep Improving** - It is important to keep evolutions on the software products. The evolution must be in a sort of aspect: engineering, UX, process, life cycle, operations, etc..
+ - **Change only what is required** - Don’t do change by the change itself. All change must be motivated by a real need, always keeping in mind the user/customer problem. To decide what is required, have collected data and metrics. 
+ - **K.I.S.S / M.V.P** - When a new product/feature must be released, find the simplest solution to test it with the real users, besides that, document the technical decisions and technical debits that will be used on the evolution/improvement phase of the product life cycle. 
+ - **Any idea must be analyzed** - No matter if a suggestion was made by the CEO or by a trainee, the idea must be analyzed anyway, without personal bias. 
 <!--
 **fredpolicarpo/fredpolicarpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
