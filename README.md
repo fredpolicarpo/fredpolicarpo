@@ -19,6 +19,9 @@ To contribute to society solving real problems, as part of a team, by building c
  - Java and Groovy with SpringBoot
  - Groovy with Grails
  - AWS
+ - Relational an NoSQL Databases
+ - Agile Developmenty Process
+ - Tech Leadership 
  
  ### A little more about me
 🔭 I’m currently working on a digital bank account for EBANX 🦄, a Unicorn fintech from Brazil, as SR Software Engineering.
