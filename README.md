@@ -20,7 +20,7 @@ To contribute to society solving real problems, as part of a team, by building c
  - Groovy with Grails
  - Distribuited Systems
  - AWS
- - Relational an NoSQL Databases
+ - Relational and NoSQL Databases
  - Agile Developmenty Process
  - Tech Leadership 
  
