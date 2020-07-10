@@ -1,3 +1,8 @@
+### Be wellcome!
+I'm a Computer Scientist passionated by solving real problems with technology. I'm working in software enterprises since 2006 🦖.
+
+My main skill is backend engineering with distributed systems. I'm always studying software architecture and the correlated disciplines as well, like cloud computing and design patterns.
+
 ### My mission
 To contribute to society solving real problems, as part of a team, by building computer systems that work efficiently, sustainably, and reliably.
 
@@ -7,6 +12,21 @@ To contribute to society solving real problems, as part of a team, by building c
  - **Change only what is required** - Don’t do change by the change itself. All change must be motivated by a real need, always keeping in mind the user/customer problem. To decide what is required, have collected data and metrics. 
  - **K.I.S.S / M.V.P** - When a new product/feature must be released, find the simplest solution to test it with the real users, besides that, document the technical decisions and technical debits that will be used on the evolution/improvement phase of the product life cycle. 
  - **Any idea must be analyzed** - No matter if a suggestion was made by the CEO or by a trainee, the idea must be analyzed anyway, without personal bias. 
+
+### Skills
+ - Backend Engeering
+ - JavaScript and TypeScript with NodeJS
+ - Java and Groovy with SpringBoot
+ - Groovy with Grails
+ - AWS
+ 
+ ### A little more about me
+🔭 I’m currently working on a digital bank account for EBANX 🦄, a Unicorn fintech from Brazil, as SR Software Engineering.
+
+🔭 I’m also currently working (part time) on a wep application for Construction Industry that improove the use of the BIM 360 models, integrating with Forge Autodesk API.
+
+🌱 I’m currently learning functional programing, AWS and patterns of resilience for distribuited systems (a.k.a microservices)
+
 <!--
 **fredpolicarpo/fredpolicarpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
