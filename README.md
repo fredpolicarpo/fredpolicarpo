@@ -26,7 +26,7 @@ To contribute to society solving real problems, as part of a team, by building c
  
  ### Certifications
  
- ![https://www.youracclaim.com/badges/9cf63c8e-24fe-4c33-8fb8-18214c343271/public_url](aws-certified-cloud-practitioner.png)
+ ![https://www.youracclaim.com/badges/9cf63c8e-24fe-4c33-8fb8-18214c343271/public_url](https://github.com/fredpolicarpo/fredpolicarpo/raw/master/aws-certified-cloud-practitioner.png)
  
  ### A little more about me
 🔭 I’m currently working on a digital bank account for EBANX 🦄, a Unicorn fintech from Brazil, as SR Software Engineering.
