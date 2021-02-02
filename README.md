@@ -29,11 +29,11 @@ To contribute to society solving real problems, as part of a team, by building c
  <a href="https://www.youracclaim.com/badges/9cf63c8e-24fe-4c33-8fb8-18214c343271/public_url" rel="some text">![Foo](https://github.com/fredpolicarpo/fredpolicarpo/raw/master/aws-certified-cloud-practitioner.png)</a>
  
  ### A little more about me
-🔭 I’m currently working on a digital bank account for EBANX 🦄, a Unicorn fintech from Brazil, as SR Software Engineering.
+🔭 I’m currently working on a digital bank account for Will Bank, a fintech from Brazil, as SR Backend Engineer.
 
 🔭 I’m also currently working (part time) on a wep application for Construction Industry that improove the use of the BIM 360 models, integrating with Forge Autodesk API.
 
-🌱 I’m currently learning functional programing, AWS and patterns of resilience for distribuited systems (a.k.a microservices)
+🌱 I’m currently learning functional programing, observability and patterns of resilience for distribuited systems (a.k.a microservices)
 
 <!--
 **fredpolicarpo/fredpolicarpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
