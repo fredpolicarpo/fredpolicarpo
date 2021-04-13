@@ -31,8 +31,6 @@ To contribute to society solving real problems, as part of a team, by building c
  ### A little more about me
 🔭 I’m currently working on a digital bank account for Will Bank, a fintech from Brazil, as SR Backend Engineer.
 
-🔭 I’m also currently working (part time) on a wep application for Construction Industry that improove the use of the BIM 360 models, integrating with Forge Autodesk API.
-
 🌱 I’m currently learning functional programing, observability and patterns of resilience for distribuited systems (a.k.a microservices)
 
 <!--
