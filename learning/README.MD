@@ -25,4 +25,7 @@
  - [ ] The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
  - [ ] The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
  - [ ] Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) 
+
+
+## [Favorites Links](./FAVORITES.MD)
  
