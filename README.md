@@ -7,7 +7,7 @@ My main skill is backend engineering with distributed systems. I'm always studyi
 To contribute to society solving real problems, as part of a team, by building computer systems that work efficiently, sustainably, and reliably.
 
 ### Core values
- - **Keep Learning** - Always save some time to learn something new. There are two categories of knowledge to learn in parallel: Skills that will help your current job/goals and skills that will help you in your long term goals. 
+ - **[Keep Learning](./leanring/README.MD)** - Always save some time to learn something new. There are two categories of knowledge to learn in parallel: Skills that will help your current job/goals and skills that will help you in your long term goals. 
  - **Evolutionary Architecture/Design** - It is important to keep evolutions on the software products. The evolution must be in a sort of aspect: engineering, UX, process, life cycle, operations, etc..
  - **Change only what is required - Baby Steps, Bottlenecks first** - Don’t do change by the change itself. All change must be motivated by a real need, always keeping in mind the user/customer problem. To decide what is required, have collected data and metrics. 
  - **K.I.S.S / M.V.P** - When a new product/feature must be released, find the simplest solution to test it with the real users, besides that, document the technical decisions and technical debits that will be used on the evolution/improvement phase of the product life cycle. 
@@ -15,19 +15,17 @@ To contribute to society solving real problems, as part of a team, by building c
 
 ### Skills
  - Backend Engeering
- - JavaScript and TypeScript with NodeJS
- - Java and Groovy with SpringBoot
- - Groovy with Grails
+ - Java, Groovy
+ - Spring, Grails, Vert.X, Project Reactor
+ - Kafka
  - Distribuited Systems
+ - Scalable Systems
  - AWS
  - Relational and NoSQL Databases
- - Agile Developmenty Process
+ - Monitoring tools like: DataDog, NewRelic, LogDNA, LogRocket
  - Tech Leadership 
+ - JavaScript and TypeScript with NodeJS
  
  ### Certifications
  
  <a href="https://www.youracclaim.com/badges/9cf63c8e-24fe-4c33-8fb8-18214c343271/public_url" rel="some text">![Foo](https://github.com/fredpolicarpo/fredpolicarpo/raw/master/aws-certified-cloud-practitioner.png)</a>
- 
- ### [My way to learn and grow](./leanring/README.MD)
-
-
