@@ -19,7 +19,7 @@ To contribute to society solving real problems, as part of a team, by building c
  - Spring, Grails, Vert.X, Project Reactor
  - Kafka
  - Distribuited Systems
- - Scalable Systems
+ - High Volume transaction processing
  - AWS
  - Relational and NoSQL Databases
  - Monitoring tools like: DataDog, NewRelic, LogDNA, LogRocket
