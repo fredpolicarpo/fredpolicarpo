@@ -2,7 +2,7 @@
 
 ### Courses
 
-- [ ] [SOLID Software Design Principles in Java](https://app.pluralsight.com/library/courses/solid-software-design-principles-java/table-of-contents) _Review_
+- [X] [SOLID Software Design Principles in Java](https://app.pluralsight.com/library/courses/solid-software-design-principles-java/table-of-contents)
 - [ ] [Domain Driven Design](https://app.pluralsight.com/paths/skills/domain-driven-design)
 - [ ] [Microservice Architecture](https://app.pluralsight.com/paths/skills/microservices-architecture)
 - [ ] [Leading with Emotional Intelligence](https://app.pluralsight.com/library/courses/leading-emotional-intelligence/table-of-contents)
