@@ -1,7 +1,7 @@
 ### Be wellcome!
 I'm a Computer Scientist passionate about solving real problems with technology. I'm working in software enterprises since 2006 🦖.
 
-My main skill is backend engineering with distributed systems. I'm always studying software architecture and the correlated disciplines as well, like cloud computing and design patterns.
+My main skill is backend engineering with distributed systems. I'm always studying software architecture and the correlated disciplines as well, like cloud computing and design patterns. Besides that, I love mentoring people and think engineering in a strategical way alinged with the company main goals.
 
 ### My mission
 To contribute to society solving real problems, as part of a team, by building computer systems that work efficiently, sustainably, and reliably.
