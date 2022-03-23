@@ -1,0 +1,4 @@
+ - [X] Start reading a new book
+ - [X] Start attending a new course
+ - [ ] Start studing a new language
+ - [ ] Start talking with engineers outside your current project
