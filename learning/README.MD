@@ -4,7 +4,7 @@
 
 - [X] ✔️ [SOLID Software Design Principles in Java](https://app.pluralsight.com/achievements/share/fc2b9d85-2a37-4f18-8371-5ca104590cec)
 - [X] ✔️ [Domain Driven Design](https://app.pluralsight.com/achievements/share/4bcd5cf1-759f-4876-8b90-aa4247f482e5) 
-- [ ] 📺 [Leading with Emotional Intelligence](https://app.pluralsight.com/library/courses/leading-emotional-intelligence/table-of-contents) _on going_
+- [X] ✔️ [Leading with Emotional Intelligence](https://app.pluralsight.com/achievements/share/f839bd34-3d8f-4671-bdd8-09d082cd7436)
 - [ ] ⏰ [Microservice Architecture](https://app.pluralsight.com/paths/skills/microservices-architecture)
 
 ### Books
