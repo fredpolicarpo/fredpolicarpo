@@ -1,4 +1,8 @@
  - [X] Start reading a new book
  - [X] Start attending a new course
  - [ ] Start studing a new language
+   - [ ] GO Lang
+   - [ ] Rust
+   - [ ] Skala
+   - [ ] Python
  - [ ] Start talking with engineers outside your current project
