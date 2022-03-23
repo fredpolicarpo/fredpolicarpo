@@ -1,5 +1,5 @@
 ## Draft
-I've built a risk-platform service that evaluates 50K/day applications with some third-party integrations like bureaus and risk-analysis services, in a system strongly based on DDD, and event-driven with Kafka.
+I've been building a risk-platform service that evaluates 50K/day applications using a lot of third-party integrations like bureaus and risk-analysis services, in a system strongly based on DDD, and event-driven with Kafka. That is very challenging due to different third parties requiring special error handling and also dealing with reactive/event-driven systems require a lot of care to keep the system consistent working with great resilience. This project is very important for the company as it has as the outcome flag customers as secure or not, so we directly affect the company cash.
 
 I have a mature notion of ownership in a way where I get involved since the idea about what we need to do to solve the user's problem, until monitor and operate the delivery after it got to production.
 
