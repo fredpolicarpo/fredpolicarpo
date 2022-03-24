@@ -23,12 +23,13 @@
 - [ ] ⏰ [Build a vehicle rating System in Go](https://app.pluralsight.com/projects/build-vehicle-rating-system-in-go)
 
 ### Books
- - [X] Designing Event-Driven Systems
- - [X] Building Reactive Microservices in Java
- - [X] Shape Up
- - [X] Domain Driven Desing Quickly
+ - [X] ✔️ Designing Event-Driven Systems
+ - [X] ✔️ Building Reactive Microservices in Java
+ - [X] ✔️ Shape Up
+ - [X] ✔️ Domain Driven Desing Quickly
  - [ ] 📖 The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition _reading_
  - [ ] 📖 Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) _reading_
+ - [ ] 📖 The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success
  - [ ] ⏰ Staff Engineer: Leadership beyond the management track
  - [ ] ⏰ Building Evolutionary Architectures: Support Constant Change
  - [ ] ⏰ The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
@@ -36,7 +37,6 @@
  - [ ] ⏰ Designing Distributed Systems
  - [ ] ⏰ Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell 
  - [ ] ⏰ Making Sense of Stream Processing
- - [ ] ⏰ The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success
  - [ ] ⏰ Fundamentals of Software Architecture
  - [ ] ⏰ Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity 
  - [ ] ⏰ Domain Driven Design in Practice
