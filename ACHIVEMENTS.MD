@@ -11,7 +11,23 @@ I'm very pragmatic so I always build a set of tools and strategies to develop fa
 _TO DO_
 
 ## ADDI
-_TO DO_
+I'm building a Risk Platform for the Addi's envrionment. So I'm integrating with some third-parties, in order to collect relavant data that can be used to evaluate if a customer is safe or have some risk associated with.
+
+So here, I've been integrated with systems like: Google Maps API, Iovation(To evaluate device risk), Telesign(To evaluate risk based on the phone number, like SIM Swap and Porting History), Bureaus, EmailAge(Risk based on the e-mail) and Neuro ID(To evaluate the navigation behavior).
+
+It is challenging because each of this providers have their way to integrate, so we build a flexible architecture to make easy to integrate this services, a kind of plug and play architecture.
+
+I would highlight the use of feature toggles, that is imporant for both: the testing phase, and the operation.
+
+As this list of providers don't intend to stop growing, we built here some good partices to monitor it. So we normalize the logs for the requests we do, the responses we receive, and with that we've created normalized monitoring bords and alerts based on status codes of the responses of the callings for this third-parties.
+
+Another highlight is about the communication process with the stackeholders, as the tools were kind of new for everyone, it was required constant communication, validatiom of ideas, continues delivery in a copule of cycles/sprints to achieve the final goal, and I've very proud the way I'm doing it in the team, I consider we are agile and doing a good colaborative work.
+
+
+#### What I would do differently?
+
+I think if I need to work in a project like that again, I would work a bit upfront in the monitoring definitions. I mean, in that project, we've normalized the monitoring after some months, in the begining the monitring and error handling were a bit harder sometimes. So I believe that with a considerably few effort we can be prepared to do a good monitoring and operation since day 1 in production. And this simple thing would be a big difference in the project produtivity, as it would allow us to delivery fast and condidently and then reduce the cycles of validation and improvment of the product.
+
 
 ## WILL BANK
 _TO DO_
