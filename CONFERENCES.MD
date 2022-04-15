@@ -1,0 +1,7 @@
+ - [JSCONF](https://jsconf.com/)
+ - [Kafka Summit](https://www.kafka-summit.org/)
+ - [AWS Reivent](https://reinvent.awsevents.com/)
+ - [Collision](https://collisionconf.com/)
+ - [GOTO](https://gotopia.tech/)
+ - [QCon](https://qconferences.com/)
+ - [Scaling Up](https://scalingup.com/summits/)
