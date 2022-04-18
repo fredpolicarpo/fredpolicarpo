@@ -8,7 +8,7 @@
 - [X] ✔️ [Building Reactive Microservices](https://app.pluralsight.com/achievements/share/b0196869-4fa3-4d8d-b82a-d143c22f4f42)
 - [X] ✔️ [Five Ways Your Leadership Must Change To Thrive With Remote Work](https://app.pluralsight.com/achievements/share/1caf1392-f1d7-4514-ab92-d80392fb011d)
 - [X] ✔️ [Rest Fundamental](https://app.pluralsight.com/achievements/share/3c99ccfa-aec5-4493-b7c0-731771bfd08b)
-- [ ] ✔️ [Getting started Swagger Tools](https://app.pluralsight.com/achievements/share/281072a1-efc9-4371-ac81-c2aacb25db55)
+- [X] ✔️ [Getting started Swagger Tools](https://app.pluralsight.com/achievements/share/281072a1-efc9-4371-ac81-c2aacb25db55)
 - [ ] 📺 [Designing RESTful Wep APIS](https://app.pluralsight.com/library/courses/designing-restful-web-apis/table-of-contents)
 - [ ] ⏰ [Microservices Security](https://app.pluralsight.com/library/courses/microservices-security-fundamentals/table-of-contents)
 - [ ] ⏰ [OWASP Top10 API Security Playbook](https://app.pluralsight.com/library/courses/owasp-top-ten-api-security-playbook/table-of-contents)
@@ -26,7 +26,7 @@
 
 
 ## Projects
-- [ ] ⏰ [Build a vehicle rating System in Go](https://app.pluralsight.com/projects/build-vehicle-rating-system-in-go)
+- [ ] 📺 [Build a vehicle rating System in Go](https://app.pluralsight.com/projects/build-vehicle-rating-system-in-go)
 
 ### Books
  - [X] ✔️ Designing Event-Driven Systems
@@ -35,7 +35,7 @@
  - [X] ✔️ Domain Driven Desing Quickly
  - [ ] 📖 The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition _reading_
  - [ ] 📖 Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) _reading_
- - [ ] 📖 The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success
+ - [ ] 📖 The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success _reading_
  - [ ] ⏰ Staff Engineer: Leadership beyond the management track
  - [ ] ⏰ Building Evolutionary Architectures: Support Constant Change
  - [ ] ⏰ The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
