@@ -1,1 +1,2 @@
-TODO
+ - Docker/Kubernates
+ - Authentication/Authorization
