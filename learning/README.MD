@@ -16,17 +16,11 @@
 - [ ] ⏰ [Introduction to Leadership and Management for Developers](https://app.pluralsight.com/library/courses/introduction-leadership-management-developers/table-of-contents)
 - [ ] ⏰ [Your Microservices Transition](https://app.pluralsight.com/library/courses/your-microservices-transition/table-of-contents)
 - [ ] ⏰ [Go fundamentals](https://app.pluralsight.com/library/courses/go-fundamentals/table-of-contents)
+- [ ] ⏰ [Go: First Web API](https://app.pluralsight.com/library/courses/go-first-web-api/table-of-contents)
+- [ ] ⏰ [Build a vehicle rating System in Go](https://app.pluralsight.com/projects/build-vehicle-rating-system-in-go)
 - [ ] ⏰ [Building distributed applications with GO](https://app.pluralsight.com/library/courses/building-distributed-applications-go/table-of-contents)
 - [ ] ⏰ [Building Scalables APIs with GraphQL](https://app.pluralsight.com/library/courses/graphql-scalable-apis/table-of-contents)
-- [ ] ⏰ [Go: First Web API](https://app.pluralsight.com/library/courses/go-first-web-api/table-of-contents)
 - [ ] ⏰ [GraphQL Observability](https://app.pluralsight.com/library/courses/js-friends-session-07/table-of-contents)
-
-
-
-
-
-## Projects
-- [ ] 📺 [Build a vehicle rating System in Go](https://app.pluralsight.com/projects/build-vehicle-rating-system-in-go)
 
 ### Books
  - [X] ✔️ Designing Event-Driven Systems
@@ -45,18 +39,7 @@
  - [ ] ⏰ Making Sense of Stream Processing
  - [ ] ⏰ Fundamentals of Software Architecture
  - [ ] ⏰ Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity 
- - [ ] ⏰ Domain Driven Design in Practice
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+ - [ ] ⏰ Domain Driven Design in Practic
 
 ## [Favorites Links](./FAVORITES.MD)
  
